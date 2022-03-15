@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Christian AUGUSTYN\\Documents\\workspace\\VisualStudioProjects\\WindowsAppXAML\\WindowsAppXAML\\WindowsAppXAML.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Christian AUGUSTYN\\Documents\\workspace\\VisualStudioProjects\\WindowsAppXAML\\WindowsAppXAML\\WindowsAppXAML.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christian AUGUSTYN\\Documents\\workspace\\VisualStudioProjects\\WindowsAppXAML\\WindowsAppXAML\\WindowsAppXAML.csproj",
+        "projectName": "WindowsAppXAML",
+        "projectPath": "C:\\Users\\Christian AUGUSTYN\\Documents\\workspace\\VisualStudioProjects\\WindowsAppXAML\\WindowsAppXAML\\WindowsAppXAML.csproj",
+        "packagesPath": "C:\\Users\\Christian AUGUSTYN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian AUGUSTYN\\Documents\\workspace\\VisualStudioProjects\\WindowsAppXAML\\WindowsAppXAML\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Christian AUGUSTYN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

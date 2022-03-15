@@ -1,0 +1,9 @@
+C:\Users\Christian AUGUSTYN\WebstormProjects\hacking-cracking-tools\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\Christian AUGUSTYN\WebstormProjects\hacking-cracking-tools\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\Christian AUGUSTYN\WebstormProjects\hacking-cracking-tools\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\Christian AUGUSTYN\WebstormProjects\hacking-cracking-tools\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Christian AUGUSTYN\WebstormProjects\hacking-cracking-tools\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\Christian AUGUSTYN\WebstormProjects\hacking-cracking-tools\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Christian AUGUSTYN\WebstormProjects\hacking-cracking-tools\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\Christian AUGUSTYN\WebstormProjects\hacking-cracking-tools\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\Christian AUGUSTYN\WebstormProjects\hacking-cracking-tools\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
