@@ -1,1 +1,0 @@
-C:\Users\Christian AUGUSTYN\Documents\workspace\VisualStudioProjects\WindowsAppXAML\WindowsAppXAML.csproj;x86

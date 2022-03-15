@@ -2,11 +2,11 @@
 //
 
 #include <iostream>
-#include <WinBase.h>
+//#include <WinBase.h>
 
-BOOL GetSystemPowerSystem(
-    [out] LPSYSTEM_POWER_STATUS lpSystemPowerStatus
-);
+//BOOL GetSystemPowerSystem(
+//    [out] LPSYSTEM_POWER_STATUS lpSystemPowerStatus
+//);
 
 int main()
 {
